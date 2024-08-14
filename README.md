@@ -114,4 +114,4 @@ findcentre.py matrix1 matrix2 bed1 bed2
 Thanks your reading
 
 ## Cite
-If you use this program, please cite the atricle of *****************
+If you use this program, please cite the atricle of [https://www.sciencedirect.com/science/article/pii/S2590346224003870](https://www.sciencedirect.com/science/article/pii/S2590346224003870)
